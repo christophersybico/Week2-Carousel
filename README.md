@@ -1,5 +1,5 @@
 
-# Week-1 Assignment: Dropbox
+# Week-2 Assignment: Carousel
 
 ## Project Requirements
 Preview:  
